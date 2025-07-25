@@ -36,3 +36,7 @@ Features
 ✅ Dynamic question loading
 ✅ Easy to extend with more questions or categories
 ✅ Clean and organized code structure
+
+#output
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/9eed204d-ef4a-4501-9a20-d480a31529e6" />
